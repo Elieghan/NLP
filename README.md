@@ -1,5 +1,4 @@
-![image](https://github.com/Elieghan/SeaLights/blob/main/sealights-squarelogo-1509539734655.png)
-# _Junior Data Scientist position - Interview Assignment_
+# Difflib and Levenshtein methods
 Risk Mitigation, Testing Standards, Strings Comparison
 
 
